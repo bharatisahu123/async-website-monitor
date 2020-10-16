@@ -1,4 +1,4 @@
-# Async Website Monitor
+# Async Website Monitor- An Amazing Project
 A minimal yet functional website uptime and monitoring tool written in Python, using [asyncio](https://docs.python.org/3/library/asyncio.html) and [aiohttp](https://github.com/KeepSafe/aiohttp) for maximum speed. When one of your URLs errors out, an e-mail alert will be delivered to your inbox by [MailGun](https://www.mailgun.com/).
 
 ## Installation
